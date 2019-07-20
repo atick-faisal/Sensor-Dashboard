@@ -1,0 +1,21 @@
+{
+  "name": "sensor_dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard for sensor data visualization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Atick Faisal",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
