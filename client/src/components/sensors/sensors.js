@@ -222,9 +222,9 @@ class Sensors extends Component {
 				</div>
 			</div>
 			<footer>
-				<a href="www.google.com">Documentation</a>
+				<a href="https://github.com/atick-faisal/Sensor-Dashboard">Documentation</a>
 				&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;
-				<a href="www.google.com">Reference</a>
+				<a href="https://github.com/atick-faisal/Sensor-Dashboard/blob/master/api_reference.md">Reference</a>
 				<p>&copy; Atick Faisal, 2019</p>
 			</footer>
 		</body>
