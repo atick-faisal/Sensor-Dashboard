@@ -7,14 +7,10 @@
 
 const express = require('express');
 const bodyParser = require('body-parser');
-const app = express();
 const mongoose = require('mongoose');
 const Item = require('./models/item');
 const path = require('path');
-
-// username : admin
-// password : admin
-const mongoURI = 'mongodb+srv://admin:admin@sensor-dashboard-gzkom.gcp.mongodb.net/test?retryWrites=true&w=majority';
+const mongoURI = require('./config/key').admin;
 
 // connect to the database
 mongoose
@@ -23,6 +19,8 @@ mongoose
     })
     .then(() => console.log('MongoDB connected...'))
     .catch(err => console.log(err));
+
+const app = express();
 
 // use body-parser middleware
 app.use(bodyParser.json());
@@ -33,7 +31,16 @@ app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 //-----------------------------------------------------------------//
- 
+
+// handle get reuests
+// sends the last 7 values
+// react app sensds this get request
+app.get('/api/sensors', function(req, res) {
+    Item.find()
+        .then(items => res.json(items.slice(items.length - 7, items.length - 1)))
+        .catch(err => console.log(err));
+});
+
 // handle post requests
 app.post('/api/sensors', function(req, res) {
     // create new item using the schema
@@ -46,15 +53,6 @@ app.post('/api/sensors', function(req, res) {
     newItem.save()
         .then(item => res.json(item));
     console.log(req.body);
-});
-
-// handle get reuests
-// sends the last 7 values
-// react app sensds this get request
-app.get('/api/sensors', function(req, res) {
-    Item.find()
-        .then(items => res.json(items.slice(items.length - 7, items.length - 1)))
-        .catch(err => console.log(err));
 });
 
 // start the server @localhost:5000
