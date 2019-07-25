@@ -6,7 +6,7 @@ import hum from './assets/hum.svg';
 import light from './assets/light.svg';
 
 // interval between refresh
-const interval = 1000;
+const interval = 3000;
 
 class App extends Component {
 	constructor() {
@@ -29,7 +29,8 @@ class App extends Component {
 
 	// get the values from the response and set the state
 	getValues() {
-		fetch('/api/sensors')
+		//fetch('localhost:5000/api/sensors')
+		fetch('https://us-east-1.aws.webhooks.mongodb-stitch.com/api/client/v2.0/app/sensor-dashboard-fyqrv/service/http/incoming_webhook/webhook0')
 		.then(res => res.json())
 		.then(sensors => this.setState({sensors}, function() {
 			console.log('sensors fetched...', sensors);
