@@ -1,4 +1,0 @@
-#Thu Jul 25 23:03:14 BDT 2019
-base.0=/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/transforms/dexMerger/debug/1
-path.0=classes.dex
-renamed.0=classes.dex
