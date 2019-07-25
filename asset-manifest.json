@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8d7c3c0.chunk.css",
-    "main.js": "/static/js/main.f56f596e.chunk.js",
-    "main.js.map": "/static/js/main.f56f596e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.fd95797b.chunk.js": "/static/js/2.fd95797b.chunk.js",
-    "static/js/2.fd95797b.chunk.js.map": "/static/js/2.fd95797b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3db1d1c96c1cb5bfef32094f82315672.js": "/precache-manifest.3db1d1c96c1cb5bfef32094f82315672.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b8d7c3c0.chunk.css.map": "/static/css/main.b8d7c3c0.chunk.css.map",
-    "static/media/hum.svg": "/static/media/hum.bfed69ce.svg",
-    "static/media/light.svg": "/static/media/light.2d989748.svg",
-    "static/media/temp.svg": "/static/media/temp.d10d3c5d.svg"
+    "main.css": "/dashboard/static/css/main.b8d7c3c0.chunk.css",
+    "main.js": "/dashboard/static/js/main.172d59f9.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.172d59f9.chunk.js.map",
+    "runtime~main.js": "/dashboard/static/js/runtime~main.26f3d777.js",
+    "runtime~main.js.map": "/dashboard/static/js/runtime~main.26f3d777.js.map",
+    "static/js/2.6456b5c0.chunk.js": "/dashboard/static/js/2.6456b5c0.chunk.js",
+    "static/js/2.6456b5c0.chunk.js.map": "/dashboard/static/js/2.6456b5c0.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.a2271962af9069e59da7e37d75d7bd90.js": "/dashboard/precache-manifest.a2271962af9069e59da7e37d75d7bd90.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/css/main.b8d7c3c0.chunk.css.map": "/dashboard/static/css/main.b8d7c3c0.chunk.css.map",
+    "static/media/hum.svg": "/dashboard/static/media/hum.bfed69ce.svg",
+    "static/media/light.svg": "/dashboard/static/media/light.2d989748.svg",
+    "static/media/temp.svg": "/dashboard/static/media/temp.d10d3c5d.svg"
   }
 }
