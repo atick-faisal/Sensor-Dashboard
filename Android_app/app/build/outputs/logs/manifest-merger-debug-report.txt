@@ -6,7 +6,6 @@ INJECTED from /home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/mai
 INJECTED from /home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/andromeda/.gradle/caches/transforms-2/files-2.1/fedc1aeeb2fd768795ed298d813beacb/AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /home/andromeda/.gradle/caches/transforms-2/files-2.1/fd465bfc8bffcaf707f8572b1c2ea468/AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.fragment:fragment:1.0.0] /home/andromeda/.gradle/caches/transforms-2/files-2.1/271be2e09021773310d1f7048fcccc70/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/andromeda/.gradle/caches/transforms-2/files-2.1/3b014092e47e156d639eed411960f4d0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/andromeda/.gradle/caches/transforms-2/files-2.1/e2d82ee8b440983126ca10a85f380d67/AndroidManifest.xml:17:1-22:12
@@ -97,8 +96,6 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] /home/andromeda/.gradle/caches/
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/andromeda/.gradle/caches/transforms-2/files-2.1/fedc1aeeb2fd768795ed298d813beacb/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/andromeda/.gradle/caches/transforms-2/files-2.1/fedc1aeeb2fd768795ed298d813beacb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /home/andromeda/.gradle/caches/transforms-2/files-2.1/fd465bfc8bffcaf707f8572b1c2ea468/AndroidManifest.xml:16:5-18:41
-MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /home/andromeda/.gradle/caches/transforms-2/files-2.1/fd465bfc8bffcaf707f8572b1c2ea468/AndroidManifest.xml:16:5-18:41
 MERGED from [androidx.fragment:fragment:1.0.0] /home/andromeda/.gradle/caches/transforms-2/files-2.1/271be2e09021773310d1f7048fcccc70/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/andromeda/.gradle/caches/transforms-2/files-2.1/271be2e09021773310d1f7048fcccc70/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/andromeda/.gradle/caches/transforms-2/files-2.1/3b014092e47e156d639eed411960f4d0/AndroidManifest.xml:20:5-44

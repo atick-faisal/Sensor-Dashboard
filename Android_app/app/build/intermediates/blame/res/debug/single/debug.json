@@ -348,6 +348,10 @@
         "source": "/home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -888,6 +892,10 @@
         "source": "/home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/res/anim/abc_slide_out_top.xml"
     },
     {
+        "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
@@ -1066,6 +1074,10 @@
     {
         "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
         "source": "/home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1300,6 +1312,10 @@
         "source": "/home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
@@ -1318,6 +1334,10 @@
     {
         "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
         "source": "/home/andromeda/.gradle/caches/transforms-2/files-2.1/40da50bebfb552043d8bc4f5a4938211/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/andromeda/Workspace/sensor_dashboard/Android_app/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
