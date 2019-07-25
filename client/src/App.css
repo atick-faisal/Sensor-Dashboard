@@ -1,3 +1,92 @@
-.App {
+body {
+  background-color: #282c34;
+  color: #eeeeee;
   text-align: center;
+}
+
+h1 {
+  padding: 16px;
+  font-weight: lighter;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: lighter;
+  display: inline-block;
+}
+
+a {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+img {
+  margin-top: 4px;
+  display: inline;
+}
+
+p {
+  color: #777;
+}
+
+footer {
+  margin-top: 32px;
+}
+
+.topbar .card {
+  display: flex; 
+}
+
+.icon {
+  flex: 1;
+  align-self: center;
+  padding: 8px;
+  margin-left: 8px;
+}
+
+.title {
+  flex: 5;
+}
+
+.value {
+  background-color: rgba(54, 162, 235, 0.2);
+  flex: 2;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.topbar .card {
+  padding: 0;
+}
+
+.card_container {
+  display: flex;
+}
+
+.card {
+  flex: 1;
+  background-color: #2f343f;
+  padding: 20px;
+  margin: 8px;
+  margin-right: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .card_container {
+    flex-direction: column;
+  }
 }
