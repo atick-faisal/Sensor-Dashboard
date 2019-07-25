@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.b8d7c3c0.chunk.css",
-    "main.js": "/dashboard/static/js/main.172d59f9.chunk.js",
-    "main.js.map": "/dashboard/static/js/main.172d59f9.chunk.js.map",
-    "runtime~main.js": "/dashboard/static/js/runtime~main.26f3d777.js",
-    "runtime~main.js.map": "/dashboard/static/js/runtime~main.26f3d777.js.map",
-    "static/js/2.6456b5c0.chunk.js": "/dashboard/static/js/2.6456b5c0.chunk.js",
-    "static/js/2.6456b5c0.chunk.js.map": "/dashboard/static/js/2.6456b5c0.chunk.js.map",
-    "index.html": "/dashboard/index.html",
-    "precache-manifest.a2271962af9069e59da7e37d75d7bd90.js": "/dashboard/precache-manifest.a2271962af9069e59da7e37d75d7bd90.js",
-    "service-worker.js": "/dashboard/service-worker.js",
-    "static/css/main.b8d7c3c0.chunk.css.map": "/dashboard/static/css/main.b8d7c3c0.chunk.css.map",
-    "static/media/hum.svg": "/dashboard/static/media/hum.bfed69ce.svg",
-    "static/media/light.svg": "/dashboard/static/media/light.2d989748.svg",
-    "static/media/temp.svg": "/dashboard/static/media/temp.d10d3c5d.svg"
+    "main.css": "/Sensor-Dashboard/static/css/main.b8d7c3c0.chunk.css",
+    "main.js": "/Sensor-Dashboard/static/js/main.8205eed8.chunk.js",
+    "main.js.map": "/Sensor-Dashboard/static/js/main.8205eed8.chunk.js.map",
+    "runtime~main.js": "/Sensor-Dashboard/static/js/runtime~main.4f9740c6.js",
+    "runtime~main.js.map": "/Sensor-Dashboard/static/js/runtime~main.4f9740c6.js.map",
+    "static/js/2.969ab3af.chunk.js": "/Sensor-Dashboard/static/js/2.969ab3af.chunk.js",
+    "static/js/2.969ab3af.chunk.js.map": "/Sensor-Dashboard/static/js/2.969ab3af.chunk.js.map",
+    "index.html": "/Sensor-Dashboard/index.html",
+    "precache-manifest.727fbe65816232e4ec8f16728bbb629b.js": "/Sensor-Dashboard/precache-manifest.727fbe65816232e4ec8f16728bbb629b.js",
+    "service-worker.js": "/Sensor-Dashboard/service-worker.js",
+    "static/css/main.b8d7c3c0.chunk.css.map": "/Sensor-Dashboard/static/css/main.b8d7c3c0.chunk.css.map",
+    "static/media/hum.svg": "/Sensor-Dashboard/static/media/hum.bfed69ce.svg",
+    "static/media/light.svg": "/Sensor-Dashboard/static/media/light.2d989748.svg",
+    "static/media/temp.svg": "/Sensor-Dashboard/static/media/temp.d10d3c5d.svg"
   }
 }
