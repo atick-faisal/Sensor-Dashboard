@@ -34,12 +34,17 @@ class App extends Component {
 		.then(res => res.json())
 		.then(sensors => this.setState({sensors}, function() {
 			console.log('sensors fetched...', sensors);
+			if(process.env.PORT) {
+				console.log('Im on github');
+			} else {
+				console.log('im on localhost');
+			}
 		}));
 	}
 
 	render() {
 		return(
-		<body>
+		<div className="App">
 			<div className="container">
 
 				<h1>Sensor Dashboard</h1>
@@ -221,7 +226,7 @@ class App extends Component {
 				<a href="https://github.com/atick-faisal/Sensor-Dashboard/blob/master/api_reference.md">Reference</a>
 				<p>&copy; Atick Faisal, 2019</p>
 			</footer>
-		</body>
+		</div>
 		);
 	}
 }
