@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98a45b59bd64cc1a4743b9a5822d6d57",
+    "revision": "b1fac08e3f82a70e7030b228272f329e",
     "url": "/Sensor-Dashboard/index.html"
   },
   {
-    "revision": "a824cfefadd31669783f",
+    "revision": "60fb784436af7887aee0",
     "url": "/Sensor-Dashboard/static/css/main.b8d7c3c0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sensor-Dashboard/static/js/2.969ab3af.chunk.js"
   },
   {
-    "revision": "a824cfefadd31669783f",
-    "url": "/Sensor-Dashboard/static/js/main.8205eed8.chunk.js"
+    "revision": "60fb784436af7887aee0",
+    "url": "/Sensor-Dashboard/static/js/main.fed271a6.chunk.js"
   },
   {
     "revision": "27f7cbdf64361a9b6a2e",
