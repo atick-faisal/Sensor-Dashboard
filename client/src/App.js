@@ -34,11 +34,7 @@ class App extends Component {
 		.then(res => res.json())
 		.then(sensors => this.setState({sensors}, function() {
 			console.log('sensors fetched...', sensors);
-			if(process.env.PORT) {
-				console.log('Im on github');
-			} else {
-				console.log('im on localhost');
-			}
+			console.log(process.env.ip);
 		}));
 	}
 
