@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sensor-Dashboard/precache-manifest.9109c3c0bf80491568322dec1cb9627f.js"
+  "/Sensor-Dashboard/precache-manifest.2ba049f44affff7130cd1bef580b021e.js"
 );
 
 self.addEventListener('message', (event) => {
