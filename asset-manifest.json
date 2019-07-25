@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Sensor-Dashboard/static/css/main.c5fe4551.chunk.css",
-    "main.js": "/Sensor-Dashboard/static/js/main.6332f527.chunk.js",
-    "main.js.map": "/Sensor-Dashboard/static/js/main.6332f527.chunk.js.map",
+    "main.js": "/Sensor-Dashboard/static/js/main.27c8fbee.chunk.js",
+    "main.js.map": "/Sensor-Dashboard/static/js/main.27c8fbee.chunk.js.map",
     "runtime~main.js": "/Sensor-Dashboard/static/js/runtime~main.4f9740c6.js",
     "runtime~main.js.map": "/Sensor-Dashboard/static/js/runtime~main.4f9740c6.js.map",
     "static/js/2.969ab3af.chunk.js": "/Sensor-Dashboard/static/js/2.969ab3af.chunk.js",
     "static/js/2.969ab3af.chunk.js.map": "/Sensor-Dashboard/static/js/2.969ab3af.chunk.js.map",
     "index.html": "/Sensor-Dashboard/index.html",
-    "precache-manifest.68596c9ea5e3a1c0ebcce629e5ad6c4c.js": "/Sensor-Dashboard/precache-manifest.68596c9ea5e3a1c0ebcce629e5ad6c4c.js",
+    "precache-manifest.4722fc96ada3d94201172cf7d71cb593.js": "/Sensor-Dashboard/precache-manifest.4722fc96ada3d94201172cf7d71cb593.js",
     "service-worker.js": "/Sensor-Dashboard/service-worker.js",
     "static/css/main.c5fe4551.chunk.css.map": "/Sensor-Dashboard/static/css/main.c5fe4551.chunk.css.map",
     "static/media/hum.svg": "/Sensor-Dashboard/static/media/hum.bfed69ce.svg",
