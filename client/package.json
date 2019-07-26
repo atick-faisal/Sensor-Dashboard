@@ -33,5 +33,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage":"https://atick-faisal.github.io/Sensor-Dashboard/"
+  "proxy": "http://localhost:5000"
 }

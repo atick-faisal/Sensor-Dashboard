@@ -37,7 +37,7 @@ app.get('/', function(req, res) {
 // react app sensds this get request
 app.get('/api/sensors', function(req, res) {
     Item.find()
-        .then(items => res.json(items.slice(items.length - 7, items.length - 1)))
+        .then(items => res.json(items.slice(items.length - 6, items.length)))
         .catch(err => console.log(err));
 });
 
