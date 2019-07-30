@@ -3,12 +3,12 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="dashboard.png"/>
 </p>
 
 ## Working Principle
-<p align="center">
+<p align="right">
   <img src="working_principle.svg"/>
 </p>
 
