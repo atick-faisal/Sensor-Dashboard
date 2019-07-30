@@ -114,6 +114,9 @@ Example response:
 
 <br>
 
+New changes sfsdf
+
+
 ### 2. Send New Sensors Values
 Adds new sensor values to the database
 #### POST
