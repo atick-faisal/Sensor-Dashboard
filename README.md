@@ -121,25 +121,7 @@ Http request:
 ```
 http://localhost:5000/api/sensors
 ```
-Example Json Body:
-```
-{
-    "temp": "35",
-    "hum": "80",
-    "light": "60"
-}
-```
-Example response:
-```
-{
-    "_id": "5d346de52931c90d024ee76b",
-    "temp": "35",
-    "hum": "80",
-    "light": "60",
-    "date": "2019-07-21T13:51:33.290Z",
-    "__v": 0
-}
-```
+
 
   
 ## License
