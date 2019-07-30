@@ -16,7 +16,7 @@
 The android app is built using the Mongodb Stitch api and android Webview. Frontend of the web app is deployed on `https://atick-faisal.github.io/Sensor-Dashboard/`. The android app loads this webpage using webview.
 
 <p align="center">
-  <img src="android.svg"/>
+  
 </p>
 
 ## How to use
