@@ -140,7 +140,8 @@ Example response:
     "__v": 0
 }
 ```
-
+## Heroku <img src="https://cdn.iconscout.com/icon/free/png-512/heroku-225989.png" width="48" height="48" align="left"/>
+This app is already deployed at Heroku. Available: [https://shrouded-meadow-04832.herokuapp.com/](https://shrouded-meadow-04832.herokuapp.com/)
   
 ## License
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
