@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
